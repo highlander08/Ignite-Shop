@@ -129,6 +129,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com 💜 por Pablo Alan 👋🏽 [Entre em contato!](https://www.linkedin.com/in/highlandersantos/)
+Feito com 💜 por Highlander santos👋🏽 [Entre em contato!](https://www.linkedin.com/in/highlandersantos/)
 
 ---
