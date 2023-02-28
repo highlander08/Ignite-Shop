@@ -116,8 +116,8 @@ Deve criar o arquivo: .env.local na raiz do projeto e passar as seguintes chaves
   
   # Não deve incluir as chaves
 
+```
 ---
-
 
 ## 🛠 Technologies
 
