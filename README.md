@@ -100,6 +100,10 @@ $ npm run dev
 ```
 
 ---
+
+😀
+
+```bash
 É importante criar uma conta no Stripe exibir informações de produtos.
 
 Deve criar o arquivo: .env.local na raiz do projeto e passar as seguintes chaves com os seguintes dados:
@@ -111,6 +115,9 @@ Deve criar o arquivo: .env.local na raiz do projeto e passar as seguintes chaves
   STRIPE_SECRET_API_KEY={chave_privada_stripe}
   
   # Não deve incluir as chaves
+
+---
+
 
 ## 🛠 Technologies
 
