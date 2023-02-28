@@ -100,6 +100,17 @@ $ npm run dev
 ```
 
 ---
+É importante criar uma conta no Stripe exibir informações de produtos.
+
+Deve criar o arquivo: .env.local na raiz do projeto e passar as seguintes chaves com os seguintes dados:
+
+  # A url pode ser http://localhost:3000 em ambiente de desenvolvimento
+  NEXT_URL={url}
+
+  STRIPE_PUBLIC_API_KEY={chave_publica_stripe}
+  STRIPE_SECRET_API_KEY={chave_privada_stripe}
+  
+  # Não deve incluir as chaves
 
 ## 🛠 Technologies
 
